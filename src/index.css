@@ -1,0 +1,26 @@
+:root {
+  --main-color: #1abc9c;
+  --second-color: #2c3e50;
+  --second-color-alt: #1a252f;
+}
+body {
+  margin: 0;
+}
+code{
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+/* main title section */
+.title:not(.text-white) {
+  color: var(--second-color);
+}
+.title-line {
+  height: 4px;
+  width: 80px;
+}
+.title.text-white .title-line {
+  background-color: #fff;
+}
+.title:not(.text-white) .title-line {
+  background-color: var(--second-color);
+}
