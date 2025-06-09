@@ -1,12 +1,25 @@
-# React + Vite
+# React‑1 Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean React demo showcasing fundamental React features using [Create React App] or a custom Babel/Webpack setup.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **JSX rendering** – Render HTML-like components using `ReactDOM.render`.
+- **JavaScript in JSX** – Embed JS logic in JSX (e.g., mapping arrays).
+- **JSX arrays** – Return arrays of JSX elements.
+- **Function components** – Build modular, reusable UI components.
+- **Props & children** – Pass data and nest children within components.
+- **PropTypes & defaultProps** – Validate props and provide defaults.
+- **Refs & DOM access** – Use `React.createRef()` to access DOM nodes.
+- **State & event handling** – Manage local state and user interactions.
+- **Lifecycle methods** – Use `componentDidMount`, etc.
+- **AJAX & Promises** – Fetch data and render asynchronously fetched content.
+- **(Optional) Server-side rendering demo** – A demo (e.g. demo13) illustrating React SSR.
 
-## Expanding the ESLint configuration
+## 🎯 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+- Node.js & npm installed.
+- (Optional) A simple HTTP server (if using prebuilt files without Create React App).
+
+
