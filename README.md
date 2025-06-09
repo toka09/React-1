@@ -1,6 +1,6 @@
-# React‑1 Demo
+# React‑1 
 
-A simple and clean React demo showcasing fundamental React features using [Create React App] or a custom Babel/Webpack setup.
+A collection of simple React examples built to demonstrate the core concepts of React, such as components, props, state, events, and more.
 
 ## 🚀 Features
 - **JSX rendering** – Render HTML-like components using `ReactDOM.render`.
