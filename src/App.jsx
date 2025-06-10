@@ -14,7 +14,7 @@ let route = createHashRouter([
       {path:'about' , element:<About/>},
         {path:'Contact' , element:<Contatct/>},
           {path:'portfolio' , element:<Portfolio/>},
-          {path:'*' , element:<Notfound/>},
+            {path:'*' , element:<Notfound/>},
   ],},
 ])
 function App(){
