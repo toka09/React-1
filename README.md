@@ -11,7 +11,6 @@ A collection of simple React examples built to demonstrate the core concepts of 
   
 ## 🛠 Technologie
 - React 
-- Babel
 - JavaScript / JSX
 - HTML5
 - CSS
@@ -20,6 +19,6 @@ A collection of simple React examples built to demonstrate the core concepts of 
 
 ### Prerequisites
 - Node.js & npm installed.
-- (Optional) A simple HTTP server (if using prebuilt files without Create React App).
+- (Optional) A simple HTTP server .
 
 
