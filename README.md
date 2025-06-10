@@ -10,8 +10,8 @@ A collection of simple React examples built to demonstrate the core concepts of 
 - **Props & children** – Pass data and nest children within components.
   
 ## 🛠 Technologie
-- React (via CDN)
-- Babel (via CDN)
+- React 
+- Babel
 - JavaScript / JSX
 - HTML5
 - CSS
